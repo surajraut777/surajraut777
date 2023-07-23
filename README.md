@@ -6,7 +6,7 @@
 
 🚀 Projects:
 1. Project A : A responsive website clone of the SpaceX website, with HTML5 and CSS3 [Live Demo](https://surajraut777.github.io/SpaceX-Clone/) | [Repo](https://github.com/surajraut777/SpaceX-Clone.git)
-2. Project B : Aadhaar Card Management Console Application with core java with oops. [Repo](https://github.com/surajraut777/Object_Oriented_Programming_Mastery-Aadhaar_Card_Management_Console_Application..git)
+2. Project B : Aadhaar Card Management Console Application with core java with oops. [Repo](https://github.com/surajraut777/Console-Based-Application.git)
 
 🎓 B.E in Mechanical Engineering | Savitribai Phule Pune University | Class of 2022
 
